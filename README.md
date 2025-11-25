@@ -1,4 +1,4 @@
-# Single-Cycle-Pipelined-RISC-V32-processor
+# Pipelined-RISC-V32-processor
 I made this project as a part of my internship program at NCDC at NUST. 
 The best thing about this project is the ecstasy I felt after making things work after hours of debugging. Trying out different instructions and seeing where there might be hazards and trying to resolve them.
 
